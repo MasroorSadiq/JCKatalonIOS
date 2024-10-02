@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MyAccount-Refresh</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>965fb8d6-a7f8-429e-a648-7877d3a5decb</testCaseGuid>
+</TestCaseEntity>
